@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrini-sdev&label=Profile%20views&color=0e75b6&style=flat" alt="petrini-sdev" /> </p>
 
-- 🌱 I’m currently learning **JS, HTML, CSS, C++, Python**
+- 🌱 Languages I know **Python, HTML, CSS, PowerShell, SQL, Bash, JS, C, C++, C#, Kotlin, Java**
 
 - 💬 Ask me about **C**
 
